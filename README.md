@@ -4,6 +4,7 @@
 
 - 🔭 Atualmente estou trabalhando no meu projeto pessoal Vanmoosh.
 - ⚡ Curiosidades: Eu amo motores e futebol, mas quando eu falo motores é até mesmo avião, inclusive o meu favorito é o Airbus A350. Eu tenho uma queda gigante pelo VW Nivus e VW Jetta GLI, além do meu amor pelo Santos F.C.
+
 -->
 
 ## Tecnologias
