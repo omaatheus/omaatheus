@@ -1,11 +1,11 @@
 ## Eai, eu sou o Matheus 💻
 
-<! --
+
 
 - 🔭 Atualmente estou trabalhando no meu projeto pessoal Vanmoosh.
 - ⚡ Curiosidades: Eu amo motores e futebol, mas quando eu falo motores é até mesmo avião, inclusive o meu favorito é o Airbus A350. Eu tenho uma queda gigante pelo VW Nivus e VW Jetta GLI, além do meu amor pelo Santos F.C.
 
--->
+
 
 ## Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
