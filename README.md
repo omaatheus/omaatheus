@@ -26,8 +26,6 @@
 
 <br/>
 
-[![omaatheus](https://github-readme-stats.vercel.app/api/top-langs/?username=omaatheus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Onde me encontrar?
 **Linkedin**
 [![Linkedin](https://img.shields.io/badge/-omaatheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusspsilva/)](https://www.linkedin.com/in/matheusspsilva/) <br/>
