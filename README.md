@@ -2,7 +2,7 @@
 ## E aí, eu sou o Matheus!
 
 - 🤔 Estou explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estou cursando bacharelado em Sistemas de Informação pela PUC-Campinas.
+- 🎓 Estou cursando bacharelado em Sistemas de Informação pelo Centro Universitário Unimetrocamp.
 - 💼 Trabalhando como Freelancer desde 2022.
 - 🌱 Tenho focado meus estudos aprendendo mais sobre Cloud e DevOps.
 
